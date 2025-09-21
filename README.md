@@ -1,5 +1,5 @@
 ---
-description: Welcome to your team’s developer platform
+description: 
 layout:
   width: wide
   title:
