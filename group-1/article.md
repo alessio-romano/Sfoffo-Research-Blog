@@ -1,3 +1,0 @@
-# Article
-
-article content

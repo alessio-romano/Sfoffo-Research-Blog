@@ -2,6 +2,6 @@
 
 * [Home](README.md)
 
-## Group 1
+## 2024 Articles
 
-* [Article](group-1/article.md)
+* [Streamlining CVE Research using GitHub](2024-articles/article.md)
