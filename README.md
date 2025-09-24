@@ -1,6 +1,12 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1514168757508-07ffe9ae125b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxoYWNraW5nfGVufDB8fHx8MTc1ODcwNjMzOXww&ixlib=rb-4.1.0&q=85
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
   title:
     visible: false
   description:
@@ -23,4 +29,5 @@ layout:
 
 ## Latest Articles
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><i class="fa-terminal">:terminal:</i></td><td><strong>Streamlining CVE Research using GitHub</strong></td><td>This article highlights both GitHub's efficient vulnerability reporting workflow and the issues I discovered during my initial CVE research exercise, illustrating how structured repository information can accelerate responsible vulnerability discovery.</td><td><a href="2024-articles/streamlining-cve-research-using-github.md">streamlining-cve-research-using-github.md</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><i class="fa-terminal">:terminal:</i></td><td><strong>CVE-2024-42845 - Invesalius3 RCE</strong></td><td><em>Remote Code Execution in DICOM import due to unsafe use of eval in coordinates parsing.</em></td><td></td><td><a href=".gitbook/assets/invesalius.png">invesalius.png</a></td></tr><tr><td><i class="fa-terminal">:terminal:</i></td><td><strong>Streamlining CVE Research using GitHub</strong></td><td><em>Highlighting GitHub's vulnerability reporting workflow and the CVEs discovered during this process.</em></td><td><a href="2024-articles/streamlining-cve-research-using-github.md">streamlining-cve-research-using-github.md</a></td><td><a href=".gitbook/assets/github-security-advisory.png">github-security-advisory.png</a></td></tr></tbody></table>
+
