@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [Pentesting Notes](https://notes.sfoffo.com/)
 
 ## 2024 Articles
 
