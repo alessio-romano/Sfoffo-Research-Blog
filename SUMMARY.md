@@ -3,6 +3,10 @@
 * [Home](README.md)
 * [Pentesting Notes](https://notes.sfoffo.com/)
 
+## 2025 ARTICLES
+
+* [Beyond a Fly in the Wild](2025-articles/beyond-a-fly-in-the-wild.md)
+
 ## 2024 Articles
 
 * [CVE-2024-42845 - Invesalius3 RCE](2024-articles/cve-2024-42845-invesalius3-rce.md)
