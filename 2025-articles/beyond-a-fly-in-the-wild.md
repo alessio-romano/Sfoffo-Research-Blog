@@ -262,7 +262,7 @@ The JSP below demonstrates a simple payload that performs path traversal **only 
 
 The JSP was intentionally written to be minimal by only using basic, allowed operations: it only requires two GET parameters (`action` and `dir`) to build a path anchored to the webapp’s deployment root to list a directory's contents or read a file's content.
 
-{% code title="path-traversal.jsp" overflow="wrap" lineNumbers="true" expandable="true" %}
+{% code title="path-traversal.jsp" overflow="wrap" lineNumbers="true" %}
 ```java
 <%
 try {
